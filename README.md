@@ -19,3 +19,19 @@ This biblical anecdote lends an interesting meaning to Phoshtron, the name of th
 ## B.
 
 .... software / games / simulation development with GLAVA ....
+
+When a programmer is given a new tool, he may begin to think very differently, if this tool allows him to do something that he cannot do previously.
+
+GLAVA is not just a three.js / WebSocket module. Consider the common programming languages and environments that most programmers are familiar with:
+
+1. Linux bash shell; C++ programs.
+
+2. Linux bash shell; Python programs.
+
+3. PHP server.
+
+4. JavaScript front end.
+
+5. Android apps.
+
+The programs in the environments listed above are very different from physical interactive experience of human beings &mdash; if human beings are like programs, like those in the movies Tron or Matrix, they will be interacting with other programs, based on space-time coordinates. This is exactly what GLAVA can provide.
