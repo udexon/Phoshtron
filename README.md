@@ -1,4 +1,4 @@
-# Phoshtron
+# Phoshtron (Light. Shell. Device.)
 
 ## A. _γενηθήτω φῶς (genēthētō phōs). Fiat Lux. Let there be light._
 
