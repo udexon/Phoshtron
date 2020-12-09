@@ -17,3 +17,5 @@ This biblical anecdote lends an interesting meaning to Phoshtron, the name of th
 
 
 ## B.
+
+.... software / games / simulation development with GLAVA ....
