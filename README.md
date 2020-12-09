@@ -35,3 +35,7 @@ GLAVA is not just a three.js / WebSocket module. Consider the common programming
 5. Android apps.
 
 The programs in the environments listed above are very different from physical interactive experience of human beings &mdash; if human beings are like programs, like those in the movies Tron or Matrix, they will be interacting with other programs, based on space-time coordinates. This is exactly what GLAVA can provide.
+
+Readers may ask,
+
+- What differences does it make to write GLAVA programs that are aware of space-time coordinates, compared to the conventional programs as listed above?
