@@ -1,6 +1,6 @@
 # Phoshtron
 
-- γενηθήτω φῶς (genēthētō phōs). Fiat Lux. Let there be light.
+## A. _γενηθήτω φῶς (genēthētō phōs). Fiat Lux. Let there be light._
 
 - "Let there be light" is an English translation of the Hebrew יְהִי אוֹר‎ (yehi 'or) found in Genesis 1:3 of the Torah, the first part of the Hebrew Bible. In Old Testament translations of the phrase, translations include the Greek phrase γενηθήτω φῶς (genēthētō phōs) and the Latin phrases fiat lux and lux sit.
 
@@ -13,3 +13,7 @@ GLAVA can be thought of as the Biblical light, whether we believe in it religiou
 
 This biblical anecdote lends an interesting meaning to Phoshtron, the name of the cyber universe to be built using GLAVA.
 
+- GLAVA Demo Video: https://www.youtube.com/watch?v=eJuAKE0al7w
+
+
+## B.
