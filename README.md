@@ -3,6 +3,7 @@
 - Part A: Programs that are aware of time and space
 - Part B: Fiat Lux
 - Part C: [Fiat Mundi](https://github.com/udexon/Phoshtron/blob/main/Part_C_Fiat_Mundi.md)
+- Part D: [The Flying Green Ball](https://github.com/udexon/Phoshtron/blob/main/Part_D_The_Flying_Green_Ball.md)
 
 Phoshtron (Greek ΦΩΣ ΘΡΟΝΟΣ, _Light-Shell-Machine_) is the name of the cyber universe to be built using GLAVA (GL Actor Viewer Architecture) &mdash; inspired by the movie Tron, as well as biblical figure Metatron μετὰ θρóνος (meta thronos).
 
