@@ -1,4 +1,11 @@
-# Phoshtron (Light. Shell. Device.)
+# Phoshtron (_Light-Shell-Machine_)
+
+Phoshtron (Greek ΦΩΣ ΘΡΟΝΟΣ, _Light-Shell-Machine_) is the name of the cyber universe to be built using GLAVA (GL Actor Viewer Architecture) &mdash; inspired by the movie Tron, as well as biblical figure Metatron μετὰ θρóνος (meta thronos).
+
+- GLAVA Demo Video: https://www.youtube.com/watch?v=eJuAKE0al7w
+
+GLAVA (GL Actor Viewer Architecture) aims to be a platform independent architecture for viewing OpenGL / WebGL objects in an Actor VM (virtual machine) from Viewer VMs, that exist as independent instances in browsers, operating system processes (programs), on different physical devices in a network.
+
 
 ## A. Programs that are aware of time and space ....
 
