@@ -28,4 +28,6 @@ GLAVA might just be the last mile needed to creaet a universal games engine &mda
 
 Literally hundreds of past 3D graphics and physics simulation projects from Open Dynamics Engine, Bullet, to three.js and ammo.js can be replicated or ported easily to GLAVA now, as we have demostrated the fundamental principles of interactions between a Viewer and an Actor using three.js and WebSocket. All that are needed now are publicity, awareness and interests to participate from young programmers.
 
-So implementing a simple collision demo in GLAVA would be the next milestone &mdash; let's see if we can get enough man power to do it by 31st December 2020 ???
+So implementing a simple collision demo in GLAVA would be the next milestone 
+
+&mdash; _let's see if we can get enough man power to do it by 31st December 2020 ???_
