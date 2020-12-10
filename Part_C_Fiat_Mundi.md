@@ -36,9 +36,11 @@ However, from the perspectives of a small number of programmers in the Phoshtron
 
 The answers is that, with GLAVA, a programmer can start thinking about "self, others and environment" with respect to the programs that he (she) is writing. i.e. Instead of thinking like a web programmer, whose mind is preoccupied with questions like "how should my web app response to user interactions?", he may ask "what functions can I write to respond to the flying green ball?"
 
-GLAVA makes it much easier to start work on online 3D games programming, much like how a child would play Lego, quite literally. 
+_GLAVA makes it much easier to start work on online 3D games programming, much like how a child would play Lego, quite literally._
 
+_Imagine the benefits this will bring to current generation of teenagers ...._
 
+_They will grow up to be a new generation of programmers or non-programmers, capable of using computer algebra (through learning Phoscript GLAVA) in their work and life in 2030, much like how personal computers, spreadsheets and Windows transformed the previous generation._
 
 
 
