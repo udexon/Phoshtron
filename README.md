@@ -4,6 +4,7 @@
 - Part B: Fiat Lux
 - Part C: [Fiat Mundi](https://github.com/udexon/Phoshtron/blob/main/Part_C_Fiat_Mundi.md)
 - Part D: [The Flying Green Ball](https://github.com/udexon/Phoshtron/blob/main/Part_D_The_Flying_Green_Ball.md)
+- Part E: [Ammo.js Car Crashing Wall GLAVA Example](https://github.com/udexon/Phoshtron/blob/main/Part_E_Ammo_GLAVA.md)
 - [Introduction to Phoscript](https://www.youtube.com/watch?v=5Fm8e4LC5vo) [PDF](https://github.com/udexon/MI4/blob/master/MI4%20Metaprogramming%20in%20Forth.pdf)
 
 Phoshtron (Greek ΦΩΣ ΘΡΟΝΟΣ, _Light-Shell-Machine_) is the name of the cyber universe to be built using GLAVA (GL Actor Viewer Architecture) &mdash; inspired by the movie Tron, as well as biblical figure Metatron μετὰ θρóνος (meta thronos).
