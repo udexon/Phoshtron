@@ -5,3 +5,8 @@
 
 - [Forked Ammo.js Repo](https://github.com/udexon/ammo.js)
 - [GLAVA (GL Actor Viewer Architecture) Demo Code](https://github.com/udexon/ammo.js/tree/master/examples/GLAVA)
+
+https://github.com/udexon/ammo.js/blob/master/examples/GLAVA/gl_actor.html
+
+https://github.com/udexon/ammo.js/blob/master/examples/GLAVA/gl_viewer.html
+
